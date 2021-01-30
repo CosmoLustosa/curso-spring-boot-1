@@ -1,4 +1,4 @@
-package br.cosolustosa.curso.entities;
+package br.cosmolustosa.curso.entities;
 
 import java.io.Serializable;
 
